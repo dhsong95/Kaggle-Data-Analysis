@@ -1,2 +1,9 @@
 venv/
 .idea/
+data/
+submission/
+.ipynb_checkpoints/
+checkpoints/
+data/
+logs/
+.DS_Store
