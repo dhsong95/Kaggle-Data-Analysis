@@ -6,4 +6,6 @@ submission/
 checkpoints/
 data/
 logs/
+references/
+nltk_data/
 .DS_Store
