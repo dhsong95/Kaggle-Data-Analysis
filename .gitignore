@@ -9,3 +9,5 @@ logs/
 references/
 nltk_data/
 .DS_Store
+run-jupyter-theme.sh
+
