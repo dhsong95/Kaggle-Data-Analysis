@@ -9,6 +9,8 @@ data/
 logs/
 references/
 nltk_data/
+static/
 .DS_Store
 run-jupyter-theme.sh
 start-jupyter.sh
+*.pptx
